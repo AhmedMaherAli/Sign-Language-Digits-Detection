@@ -1,7 +1,7 @@
 # Sign-Language-Digits-Detection
 
 #To run this proect:
--You need to instal keras
+-You need to instal keras and sk-learn, running it on google colab is preferable.
 
 #Description
 -In this project i use Dence Neural Network to make the detection process, 
